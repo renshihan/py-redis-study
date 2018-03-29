@@ -1,0 +1,4 @@
+#coding:utf-8
+ONE_WEEK_IN_SECOND=7 * 24 *60 *60 *1000
+VOTE_SCORE=432
+def 
